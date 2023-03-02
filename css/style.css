@@ -225,8 +225,12 @@ img {
     background: #000;
     color: #fff;
     text-decoration: none;
-    padding: 10px 19px;
+    padding: 12px 30px;
     border-radius: 20px;
+    transition: .5s ease;
+}
+.boton_nosotros:hover {
+    transform: scale(1.05);
 }
 .boton_nosotros i {
     margin-left: 8px;
