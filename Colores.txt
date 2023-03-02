@@ -1,0 +1,3 @@
+Amarillo - Letras: #EFB732;
+Amarillo - Cartas:  #EDB129;
+Amarillo-  Fondo de cartas: #DB9421;
